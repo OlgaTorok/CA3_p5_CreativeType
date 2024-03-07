@@ -1,4 +1,4 @@
-# Generative Design - Creative Type
+# Generative Design - Creative Type (CA)
 
 P5.js application using font and gradient image. 
 
